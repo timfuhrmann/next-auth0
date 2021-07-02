@@ -49,7 +49,7 @@ const Home: React.FC = () => {
                 <HomeInfo>
                     It seems you're not authorized to click this button.
                     <br />
-                    Go ahead and try to login first.
+                    Go ahead and login or sign up first.
                     <LoginData>
                         <div>demo@you.com</div>
                         <div>Password123!</div>
