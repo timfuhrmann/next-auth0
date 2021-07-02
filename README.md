@@ -1,5 +1,7 @@
 This demo is a [Next.js](https://nextjs.org/) project using [Typescript](https://www.typescriptlang.org/), [Styled Components](https://styled-components.com/) and [Auth0](https://auth0.com/) as an authentication service.
 
+Check it out: https://next-auth0-sigma.vercel.app/
+
 ## Getting Started
 
 Create a Regular Web Application using the Auth0 dashboard, configure your application (Application URIs) and fill in the missing environment variables.
